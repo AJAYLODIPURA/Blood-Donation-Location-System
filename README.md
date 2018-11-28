@@ -1,5 +1,5 @@
-# BloodDonationManagementSystem
-Implement the Blood Donation Management System by AngularJS/NodeJS/MongoDB, CrossOverTest
+# Blood Donation Location System
+Implement the Blood Donation Location System by AngularJS/NodeJS/MongoDB, CrossOverTest
 
 ## Installation
 
